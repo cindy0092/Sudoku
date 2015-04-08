@@ -1,4 +1,3 @@
-# Sudoku
 The rules
 The rules are really straight forward:
 
